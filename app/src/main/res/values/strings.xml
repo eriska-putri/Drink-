@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">drink</string>
+    <string name="icecream">/icecream</string>
+
+    <string-array name="drink_name">
+        <item>Starbuck Capucino</item>
+        <item>Starbuck Coffie</item>
+        <item>Starbuck Grape</item>
+        <item>Starbuck Matcha</item>
+        <item>Starbuck Mocca</item>
+        <item>Starbuck Pink</item>
+        <item>Starbuck Pinkk</item>
+        <item>Starbuck Purple</item>
+        <item>Starbuck Rainbow</item>
+        <item>Starbuck White</item>
+
+    </string-array>
+     <array name="drink_image">
+         <item>@drawable/sbuck_cappucino</item>
+         <item>@drawable/sbuck_coffie</item>
+         <item>@drawable/sbuck_grape</item>
+         <item>@drawable/sbuck_matcha</item>
+         <item>@drawable/sbuck_mocca</item>
+         <item>@drawable/sbuck_pink</item>
+         <item>@drawable/sbuck_pinkk</item>
+         <item>@drawable/sbuck_purple</item>
+         <item>@drawable/sbuck_rainbow</item>
+         <item>@drawable/sbuck_white</item>
+     </array>
+</resources>
